@@ -1,0 +1,22 @@
+.newtask {
+	padding: 30px 200px 0px 200px;
+	.title {
+		text-align: center;
+		margin-bottom: 56px;
+	}
+	.back {
+		display: inline-block;
+		cursor: pointer;
+		padding: 10px;
+	}
+	.add {
+		width: 100%;
+		margin-top: 50px;
+		padding: 10px 0px;
+		background-color: rgb(92, 184, 92);
+		color: white;
+		border: 0;
+		border-radius: 10px;
+		font-size: 30px;
+	}
+}
